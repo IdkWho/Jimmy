@@ -4,7 +4,7 @@ So like this:
 
 Copyright: creative common license: https://github.com/IdkWho/Jimmy
 
-if you do that you're good! Well then thanks for my work....
+if you do that you're good!Ifn't Well then thanks for my work....
 --------------------------------------------------------------------------------------------------------------------------------------
 
 CC0 1.0 Universal
